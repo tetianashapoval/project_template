@@ -1,4 +1,4 @@
-#!/Users/tatanasapoval/PycharmProjects/project_template/.venv/bin/python
+#!/Users/tatanasapoval/PycharmProjects/project_template/.venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
